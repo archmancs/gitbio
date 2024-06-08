@@ -1,0 +1,16 @@
+{
+	"display_name": "satoko",
+	"bio": "malac",
+	"platforms": [
+		"https://instagram.com/yoursitee",
+		"https://github.com/yoursitee",
+		"https://x.com/yoursitee",
+		"https://yoursit.ee",
+		"https://t.me/yoursitee"
+	],
+  "showcased_repos": [
+    "erettsegi-browser"
+  ],
+	"background_color": "green",
+	"show_views": true
+}
