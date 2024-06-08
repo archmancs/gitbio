@@ -8,7 +8,7 @@
 		"https://yoursit.ee",
 		"https://t.me/yoursitee"
 	],
-	"spotify_ws": "spotif.csehviktor.me",
+	"spotify_ws": "wss://spotif.csehviktor.me",
   "showcased_repos": [
     "erettsegi-browser"
   ],
